@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="load.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="543" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mostrarDatos.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="174" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="58" />
+			<Collapse line="71" />
+			<Collapse line="106" />
+			<Collapse line="120" />
+			<Collapse line="144" />
+		</Folding>
+	</File>
+	<File name="save.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="load.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="28" />
+			<Collapse line="68" />
+			<Collapse line="104" />
+			<Collapse line="167" />
+			<Collapse line="236" />
+			<Collapse line="244" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="394" topLine="7" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="63" />
+		</Folding>
+	</File>
+	<File name="save.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2550" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="13" />
+			<Collapse line="20" />
+			<Collapse line="24" />
+			<Collapse line="30" />
+			<Collapse line="34" />
+			<Collapse line="40" />
+			<Collapse line="41" />
+			<Collapse line="44" />
+			<Collapse line="54" />
+			<Collapse line="59" />
+			<Collapse line="62" />
+			<Collapse line="69" />
+			<Collapse line="72" />
+			<Collapse line="83" />
+		</Folding>
+	</File>
+	<File name="reportin.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4014" topLine="150" />
+		</Cursor>
+	</File>
+	<File name="utility.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10020" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="22" />
+			<Collapse line="32" />
+			<Collapse line="68" />
+			<Collapse line="125" />
+			<Collapse line="157" />
+			<Collapse line="276" />
+			<Collapse line="351" />
+			<Collapse line="361" />
+			<Collapse line="388" />
+		</Folding>
+	</File>
+	<File name="mostrarDatos.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="447" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="utility.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="332" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="variables.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="83" topLine="9" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1478278603 source:c:\users\manu\desktop\projectalgebra\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+
+1478347996 source:c:\users\manu\desktop\project algoritmos\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"mostrarDatos.h"
+	"save.h"
+	"load.h"
+	"reportin.h"
+
+1478323193 c:\users\manu\desktop\project algoritmos\utility.h
+	<iostream>
+	"variables.h"
+
+1478323257 c:\users\manu\desktop\project algoritmos\variables.h
+	<iostream>
+
+1478347981 source:c:\users\manu\desktop\project algoritmos\utility.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"variables.h"
+
+1478326408 source:c:\users\manu\desktop\project algoritmos\mostrardatos.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"variables.h"
+	"mostrarDatos.h"
+
+1478323813 c:\users\manu\desktop\project algoritmos\mostrardatos.h
+	<iostream>
+	"variables.h"
+
+1478329055 source:c:\users\manu\desktop\project algoritmos\load.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"variables.h"
+
+1478324184 c:\users\manu\desktop\project algoritmos\save.h
+	<iostream>
+	"variables.h"
+
+1478329126 c:\users\manu\desktop\project algoritmos\load.h
+	<iostream>
+	"variables.h"
+
+1478324646 c:\users\manu\desktop\project algoritmos\reportin.h
+	<iostream>
+	"variables.h"
+
+1478324777 source:c:\users\manu\desktop\project algoritmos\save.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"save.h"
+	"utility.h"
+	"variables.h"
+
+1478347846 source:c:\users\manu\desktop\project algoritmos\reportin.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"reportin.h"
+
+1478329055 source:c:\users\juan manuel\documents\programas\project algoritmos\load.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"variables.h"
+
+1478323193 c:\users\juan manuel\documents\programas\project algoritmos\utility.h
+	<iostream>
+	"variables.h"
+
+1478545772 c:\users\juan manuel\documents\programas\project algoritmos\variables.h
+	<iostream>
+
+1478326408 source:c:\users\juan manuel\documents\programas\project algoritmos\mostrardatos.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"variables.h"
+	"mostrarDatos.h"
+
+1478323813 c:\users\juan manuel\documents\programas\project algoritmos\mostrardatos.h
+	<iostream>
+	"variables.h"
+
+1478347846 source:c:\users\juan manuel\documents\programas\project algoritmos\reportin.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"reportin.h"
+
+1478324646 c:\users\juan manuel\documents\programas\project algoritmos\reportin.h
+	<iostream>
+	"variables.h"
+
+1478347981 source:c:\users\juan manuel\documents\programas\project algoritmos\utility.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"variables.h"
+
+1478574473 source:c:\users\juan manuel\documents\programas\project algoritmos\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+	"mostrarDatos.h"
+	"save.h"
+	"load.h"
+	"reportin.h"
+
+1478324184 c:\users\juan manuel\documents\programas\project algoritmos\save.h
+	<iostream>
+	"variables.h"
+
+1478329126 c:\users\juan manuel\documents\programas\project algoritmos\load.h
+	<iostream>
+	"variables.h"
+
+1478574948 source:c:\users\juan manuel\documents\programas\project algoritmos\save.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	"save.h"
+	"utility.h"
+	"variables.h"
+
